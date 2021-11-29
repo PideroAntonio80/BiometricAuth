@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BiometricAuth</string>
+    <string name="b_authenticate_text">Authenticate</string>
+    <string name="tv_auth_status_text">Auth Status</string>
+    <string name="success_auth_text">Authentication succeeded</string>
+    <string name="failed_auth_text">Authentication failed</string>
+</resources>
